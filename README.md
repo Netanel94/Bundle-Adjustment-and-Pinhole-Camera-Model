@@ -18,7 +18,6 @@ In this project, we follow a step-by-step approach to achieve our goals:
 
 6. **Bundle Adjustment**: To optimize the camera parameters and 3D point positions, we implement the Bundle Adjustment algorithm. This involves adjusting camera poses and 3D point coordinates to minimize the reprojection error.
 
-Certainly! Here's the list of classes converted into a table format:
 
 | File Name               | Description                                                      |
 |-------------------------|------------------------------------------------------------------|
